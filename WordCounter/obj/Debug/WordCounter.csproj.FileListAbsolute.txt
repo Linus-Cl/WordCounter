@@ -1,0 +1,14 @@
+C:\Users\Linus\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Linus\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Linus\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Linus\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\Linus\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Linus\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Linus\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\dev\csharp\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\dev\csharp\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\dev\csharp\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\dev\csharp\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\dev\csharp\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\dev\csharp\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\dev\csharp\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
